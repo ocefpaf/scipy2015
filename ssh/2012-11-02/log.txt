@@ -1,0 +1,240 @@
+06:33:28 INFO: ************Saving data inside directory 2012-11-02*************
+06:33:28 INFO: *********************** Run information ************************
+06:33:28 INFO: Run date: 2015-03-31 21:33:28
+06:33:28 INFO: Download start: 2012-10-22 12:00:00
+06:33:28 INFO: Download stop: 2012-11-02 12:00:00
+06:33:28 INFO: Bounding box: -87.00, 24.00,-70.00, 42.00
+06:33:28 INFO: *********************** Software version ***********************
+06:33:28 INFO: Iris version: 1.8.0-DEV
+06:33:28 INFO: owslib version: 0.8.13
+06:33:28 INFO: pyoos version: 0.6.2
+06:33:32 INFO: ********************* Catalog information **********************
+06:33:32 INFO: URL: http://www.ngdc.noaa.gov/geoportal/csw
+06:33:32 INFO: CSW version: 2.0.2
+06:33:32 INFO: Number of datasets available: 5
+06:33:32 INFO: ***************************** CSW ******************************
+06:33:32 INFO: COAWST Forecast System : USGS : US East Coast and Gulf of Mexico (Experimental)
+06:33:32 INFO: ROMS/TOMS 3.0 - New Floria Shelf Application
+06:33:32 INFO: Barotropic Tide Model for the Pacific Basin
+06:33:32 INFO: NOAA.NOS.CO-OPS SOS
+06:33:32 INFO: HYbrid Coordinate Ocean Model (HYCOM): Global
+06:33:32 INFO: ***************************** DAP ******************************
+06:33:32 INFO: http://crow.marine.usf.edu:8080/thredds/dodsC/WFS_ROMS_NF_model/USF_Ocean_Circulation_Group_West_Florida_Shelf_Daily_ROMS_Nowcast_Forecast_Model_Data_best.ncd.html
+06:33:32 INFO: http://geoport.whoi.edu/thredds/dodsC/coawst_4/use/fmrc/coawst_4_use_best.ncd.html
+06:33:32 INFO: http://oos.soest.hawaii.edu/thredds/dodsC/hioos/tide_pac.html
+06:33:32 INFO: http://oos.soest.hawaii.edu/thredds/dodsC/pacioos/hycom/global.html
+06:33:32 INFO: ***************************** SOS ******************************
+06:33:32 INFO: http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/SOS?service=SOS&request=GetCapabilities
+06:33:38 INFO: ********************* Collector offerings **********************
+06:33:38 INFO: NOAA.NOS.CO-OPS SOS: 1040 offerings
+06:33:48 INFO: SOS URL request: http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/SOS?eventTime=2012-10-22T12%3A00%3A00Z&service=SOS&offering=urn%3Aioos%3Anetwork%3ANOAA.NOS.CO-OPS%3AWaterLevelActive&request=GetObservation&version=1.0.0&responseFormat=text%2Fcsv&featureOfInterest=BBOX%3A-87%2C24%2C-70%2C42&observedProperty=water_surface_height_above_reference_datum
+06:34:18 INFO: ************************* Observations *************************
+06:34:18 INFO: **** Downloading to file 2012-11-02/2012-11-02-OBS_DATA.nc *****
+06:34:20 WARNING: [8447386] Fall River, MA:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:34:24 WARNING: [8449130] Nantucket Island, MA:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:34:28 WARNING: [8452944] Conimicut Light, RI:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:34:33 WARNING: [8454049] Quonset Point, RI:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:34:39 WARNING: [8465705] New Haven, CT:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:34:51 WARNING: [8516945] Kings Point, NY:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:02 WARNING: [8537121] Ship John Shoal, NJ:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:04 WARNING: [8539094] Burlington, Delaware River, NJ:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:05 WARNING: [8540433] Marcus Hook, PA:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:10 WARNING: [8548989] Newbold, PA:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:11 WARNING: [8551762] Delaware City, DE:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:27 WARNING: [8573364] Tolchester Beach, MD:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:28 WARNING: [8573927] Chesapeake City, MD:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:42 WARNING: [8636580] Windmill Point, VA:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:43 WARNING: [8637689] Yorktown USCG Training Center, VA:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:47 WARNING: [8638863] Chesapeake Bay Bridge Tunnel, VA:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:48 WARNING: [8639348] Money Point, VA:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:54 WARNING: [8654467] USCG Station Hatteras, NC:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:55 WARNING: [8656483] Beaufort, NC:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:35:56 WARNING: [8658120] Wilmington, NC:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:36:42 WARNING: [8726520] St Petersburg, FL:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:36:45 WARNING: [8726607] Old Port Tampa, FL:
+'Wrong Datum for this station: The correct Datum values are: MHHW, MHW, MTL, MSL, MLW, MLLW, STND'
+06:37:00 WARNING: [9063053] Fairport, OH:
+'Wrong Datum for this station: The correct Datum value is: IGLD'
+06:37:02 WARNING: [9063063] Cleveland, OH:
+'Wrong Datum for this station: The correct Datum value is: IGLD'
+06:37:02 WARNING: [9063079] Marblehead, OH:
+'Wrong Datum for this station: The correct Datum value is: IGLD'
+06:37:03 WARNING: [9063085] Toledo, OH:
+'Wrong Datum for this station: The correct Datum value is: IGLD'
+06:37:04 WARNING: [9063090] Fermi Power Plant, MI:
+'Wrong Datum for this station: The correct Datum value is: IGLD'
+06:37:04 INFO: **************************** Models ****************************
+06:37:04 INFO: 
+[Reading url 1/4]: http://crow.marine.usf.edu:8080/thredds/dodsC/WFS_ROMS_NF_model/USF_Ocean_Circulation_Group_West_Florida_Shelf_Daily_ROMS_Nowcast_Forecast_Model_Data_best.ncd
+06:37:10 INFO: 
+[Reading url 2/4]: http://geoport.whoi.edu/thredds/dodsC/coawst_4/use/fmrc/coawst_4_use_best.ncd
+06:37:37 INFO: 
+[Reading url 3/4]: http://oos.soest.hawaii.edu/thredds/dodsC/hioos/tide_pac
+06:37:40 INFO: 
+[Reading url 4/4]: http://oos.soest.hawaii.edu/thredds/dodsC/pacioos/hycom/global
+06:37:42 WARNING: Cannot get cube for: http://oos.soest.hawaii.edu/thredds/dodsC/pacioos/hycom/global
+istart must be different from istop! Got istart 0 and  istop 0
+06:37:43 INFO: ******* Saving to file 2012-11-02/2012-11-02-USF_ROMS.nc *******
+06:37:43 INFO: [No Data] Woods Hole, MA
+06:37:43 INFO: [No Data] Newport, RI
+06:37:43 INFO: [No Data] Providence, RI
+06:37:43 INFO: [No Data] New London, CT
+06:37:43 INFO: [No Data] Bridgeport, CT
+06:37:43 INFO: [No Data] Montauk, NY
+06:37:43 INFO: [No Data] The Battery, NY
+06:37:43 INFO: [No Data] Atlantic City, NJ
+06:37:43 INFO: [No Data] Cape May, NJ
+06:37:43 INFO: [No Data] Philadelphia, PA
+06:37:43 INFO: [No Data] Reedy Point, DE
+06:37:43 INFO: [No Data] Lewes, DE
+06:37:43 INFO: [No Data] Ocean City Inlet, MD
+06:37:43 INFO: [No Data] Bishops Head, MD
+06:37:43 INFO: [No Data] Cambridge, MD
+06:37:43 INFO: [No Data] Baltimore, MD
+06:37:43 INFO: [No Data] Annapolis, MD
+06:37:43 INFO: [No Data] Solomons Island, MD
+06:37:43 INFO: [No Data] Washington, DC
+06:37:43 INFO: [No Data] Lewisetta, VA
+06:37:43 INFO: [No Data] Sewells Point, VA
+06:37:43 INFO: [No Data] Duck, NC
+06:37:43 INFO: [No Data] Oregon Inlet Marina, NC
+06:37:43 INFO: [No Data] Wrightsville Beach, NC
+06:37:43 INFO: [No Data] Springmaid Pier, SC
+06:37:43 INFO: [No Data] Oyster Landing (N Inlet Estuary), SC
+06:37:43 INFO: [No Data] Charleston, SC
+06:37:43 INFO: [No Data] Fort Pulaski, GA
+06:37:43 INFO: [No Data] Fernandina Beach, FL
+06:37:43 INFO: [No Data] Mayport (Bar Pilots Dock), FL
+06:37:43 INFO: [No Data] I-295 Bridge, St Johns River, FL
+06:37:43 INFO: [No Data] Trident Pier, FL
+06:37:43 INFO: [No Data] Lake Worth Pier, FL
+06:37:43 INFO: [No Data] Virginia Key, FL
+06:37:43 INFO: [No Data] Vaca Key, FL
+06:37:43 INFO: [No Data] Key West, FL
+06:37:44 INFO: [Water  ] Naples, FL
+06:37:45 INFO: [Water  ] Fort Myers, FL
+06:37:48 INFO: [Water  ] Port Manatee, FL
+06:37:49 INFO: [Water  ] Mckay Bay Entrance, FL
+06:37:51 INFO: [Water  ] Clearwater Beach, FL
+06:37:55 INFO: [Water  ] Cedar Key, FL
+06:37:57 INFO: [Water  ] Apalachicola, FL
+06:38:00 INFO: [Water  ] Panama City, FL
+06:38:10 INFO: Finished processing [USF_ROMS]: http://oos.soest.hawaii.edu/thredds/dodsC/pacioos/hycom/global
+06:38:10 INFO: ******* Saving to file 2012-11-02/2012-11-02-COAWST_4.nc *******
+06:38:18 INFO: [Water  ] Woods Hole, MA
+06:38:36 INFO: [Water  ] Newport, RI
+06:38:43 INFO: [Land   ] Providence, RI
+06:38:50 INFO: [Land   ] New London, CT
+06:39:00 INFO: [Land   ] Bridgeport, CT
+06:39:15 INFO: [Land   ] Montauk, NY
+06:39:20 INFO: [Land   ] The Battery, NY
+06:39:28 INFO: [Water  ] Atlantic City, NJ
+06:39:42 INFO: [Water  ] Cape May, NJ
+06:39:48 INFO: [Land   ] Philadelphia, PA
+06:39:55 INFO: [Water  ] Reedy Point, DE
+06:40:03 INFO: [Land   ] Lewes, DE
+06:40:21 INFO: [Water  ] Ocean City Inlet, MD
+06:40:36 INFO: [Water  ] Bishops Head, MD
+06:40:42 INFO: [Water  ] Cambridge, MD
+06:40:50 INFO: [Land   ] Baltimore, MD
+06:40:55 INFO: [Water  ] Annapolis, MD
+06:41:02 INFO: [Land   ] Solomons Island, MD
+06:41:08 INFO: [Land   ] Washington, DC
+06:41:15 INFO: [Land   ] Lewisetta, VA
+06:41:28 INFO: [Water  ] Sewells Point, VA
+06:41:34 INFO: [Land   ] Duck, NC
+06:41:45 INFO: [Water  ] Oregon Inlet Marina, NC
+06:41:54 INFO: [Water  ] Wrightsville Beach, NC
+06:42:08 INFO: [Water  ] Springmaid Pier, SC
+06:42:14 INFO: [Land   ] Oyster Landing (N Inlet Estuary), SC
+06:42:21 INFO: [Land   ] Charleston, SC
+06:42:30 INFO: [Land   ] Fort Pulaski, GA
+06:42:38 INFO: [Land   ] Fernandina Beach, FL
+06:42:44 INFO: [Land   ] Mayport (Bar Pilots Dock), FL
+06:42:50 INFO: [Land   ] I-295 Bridge, St Johns River, FL
+06:42:57 INFO: [Land   ] Trident Pier, FL
+06:43:13 INFO: [Water  ] Lake Worth Pier, FL
+06:43:19 INFO: [Land   ] Virginia Key, FL
+06:43:27 INFO: [Land   ] Vaca Key, FL
+06:43:42 INFO: [Water  ] Key West, FL
+06:43:48 INFO: [Land   ] Naples, FL
+06:43:54 INFO: [Land   ] Fort Myers, FL
+06:44:01 INFO: [Land   ] Port Manatee, FL
+06:44:10 INFO: [Land   ] Mckay Bay Entrance, FL
+06:44:18 INFO: [Land   ] Clearwater Beach, FL
+06:44:31 INFO: [Water  ] Cedar Key, FL
+06:44:37 INFO: [Water  ] Apalachicola, FL
+06:44:45 INFO: [Water  ] Panama City, FL
+06:46:53 INFO: Finished processing [COAWST_4]: http://oos.soest.hawaii.edu/thredds/dodsC/pacioos/hycom/global
+06:46:53 INFO: ******** Saving to file 2012-11-02/2012-11-02-BTMPB.nc *********
+06:46:53 INFO: [No Data] Woods Hole, MA
+06:46:53 INFO: [No Data] Newport, RI
+06:46:53 INFO: [No Data] Providence, RI
+06:46:53 INFO: [No Data] New London, CT
+06:46:53 INFO: [No Data] Bridgeport, CT
+06:46:53 INFO: [No Data] Montauk, NY
+06:46:53 INFO: [No Data] The Battery, NY
+06:46:53 INFO: [No Data] Atlantic City, NJ
+06:46:53 INFO: [No Data] Cape May, NJ
+06:46:53 INFO: [No Data] Philadelphia, PA
+06:46:53 INFO: [No Data] Reedy Point, DE
+06:46:53 INFO: [No Data] Lewes, DE
+06:46:53 INFO: [No Data] Ocean City Inlet, MD
+06:46:53 INFO: [No Data] Bishops Head, MD
+06:46:53 INFO: [No Data] Cambridge, MD
+06:46:53 INFO: [No Data] Baltimore, MD
+06:46:53 INFO: [No Data] Annapolis, MD
+06:46:53 INFO: [No Data] Solomons Island, MD
+06:46:53 INFO: [No Data] Washington, DC
+06:46:53 INFO: [No Data] Lewisetta, VA
+06:46:53 INFO: [No Data] Sewells Point, VA
+06:46:53 INFO: [No Data] Duck, NC
+06:46:53 INFO: [No Data] Oregon Inlet Marina, NC
+06:46:53 INFO: [No Data] Wrightsville Beach, NC
+06:46:53 INFO: [No Data] Springmaid Pier, SC
+06:46:53 INFO: [No Data] Oyster Landing (N Inlet Estuary), SC
+06:46:53 INFO: [No Data] Charleston, SC
+06:46:53 INFO: [No Data] Fort Pulaski, GA
+06:46:53 INFO: [No Data] Fernandina Beach, FL
+06:46:53 INFO: [No Data] Mayport (Bar Pilots Dock), FL
+06:46:53 INFO: [No Data] I-295 Bridge, St Johns River, FL
+06:46:53 INFO: [No Data] Trident Pier, FL
+06:46:53 INFO: [No Data] Lake Worth Pier, FL
+06:46:53 INFO: [No Data] Virginia Key, FL
+06:46:53 INFO: [No Data] Vaca Key, FL
+06:46:53 INFO: [No Data] Key West, FL
+06:46:53 INFO: [No Data] Naples, FL
+06:46:53 INFO: [No Data] Fort Myers, FL
+06:46:53 INFO: [No Data] Port Manatee, FL
+06:46:53 INFO: [No Data] Mckay Bay Entrance, FL
+06:46:53 INFO: [No Data] Clearwater Beach, FL
+06:46:53 INFO: [No Data] Cedar Key, FL
+06:46:53 INFO: [No Data] Apalachicola, FL
+06:46:53 INFO: [No Data] Panama City, FL
+06:46:53 INFO: Finished processing [BTMPB]: http://oos.soest.hawaii.edu/thredds/dodsC/pacioos/hycom/global
+06:46:55 WARNING: /home/filipe/miniconda/envs/SECOORA/lib/python2.7/site-packages/numpy/core/_methods.py:59: RuntimeWarning: Mean of empty slice.
+  warnings.warn("Mean of empty slice.", RuntimeWarning)
+
+06:47:11 INFO: 13.74 minutes
+06:47:11 INFO: EOF
